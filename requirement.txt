@@ -1,0 +1,7 @@
+elasticsearch
+google-api-core
+google-auth
+google-cloud-securitycenter
+googleapis-common-protos
+grpc-google-iam-v1
+grpcio
