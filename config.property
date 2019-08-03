@@ -1,0 +1,8 @@
+[projectMapping]
+SERVICE_ACCOUNT_KEY_VIOLATION=violation.project_id
+FIREWALL_BLACKLIST_VIOLATION=resource_id
+FIREWALL_WHITELIST_VIOLATION=resource_id
+KE_VERSION_VIOLATION=violation.project_id
+KE_VIOLATION=violation.project_id
+IAM_POLICY_VIOLATION=resource_id
+BIGQUERY_VIOLATION=resource_id
