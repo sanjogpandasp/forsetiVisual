@@ -5,3 +5,4 @@ google-cloud-securitycenter
 googleapis-common-protos
 grpc-google-iam-v1
 grpcio
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
